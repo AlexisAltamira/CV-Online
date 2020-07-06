@@ -1,0 +1,155 @@
+.cuerpo {
+    background: linear-gradient(120deg, #022c43, #5e0606);
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 5%;  
+}
+
+
+.menu {
+    background: rgb(240, 240, 240);
+    box-sizing: border-box;
+    text-align: center;
+    color: black;
+    min-width: 28%;
+    width: 28%;
+    border-radius: 5px;
+    position: fixed;  
+    max-height: 100%;
+    height: 100%; 
+}
+
+
+.mi-foto {
+    width: 70%;
+    max-width: 90%;
+    max-height: 45%;
+    border-radius: 5%;
+    padding-top: 2%; 
+      
+}
+
+
+
+.titulos { 
+    list-style: none;
+    width: 90%;
+    min-width: 90%;
+    max-height: 40%;
+    padding-inline-start: 5%;
+
+}
+
+
+
+.lista-nav {
+    
+    font-weight: bold;
+    box-sizing: border-box;
+    background: #dbcc8f;
+    text-align: left;
+    font-size: 20px;
+    width: 100%;
+    padding: 1.5%;
+    border: none;
+    border-radius: 3px;    
+    margin-top: 3%;   
+    min-width: 60%; 
+}
+
+
+.lista-nav-link {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;   
+    width: 90%;
+}
+
+
+
+.cajas {
+    box-sizing: border-box;
+    background-color: rgb(240, 240, 240);
+    line-height: 25px;    
+    width: 60%;
+    padding-left: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 33%;    
+    margin-top: 15px;   
+    
+    
+}
+
+
+#titulo {
+    font-size: 26px;
+    text-align: center;   
+}
+
+
+.subtitulo { 
+    font-size: 24px;
+    text-align: center;      
+}
+
+
+.parrafo {
+    font-size: 18px;  
+    width: 92%;  
+}
+
+
+hr {
+    width: 90%;
+    border-top: 2px solid black;
+    margin-inline-start: 0px;
+}
+
+
+.datos-personales {
+    list-style: none;
+    font-size: 18px;
+    padding-inline-start: 0px;
+}
+
+
+.redes {
+    padding-bottom: 1px;
+    padding-top: 1px;
+    width: 90%;
+    border-bottom: 1px dashed darkmagenta;  
+    margin-inline-start: 0px;
+    
+}
+
+
+.lista-datos {
+    padding-inline-start: 0px;
+    list-style-type: none;
+    font-family: 'Merienda', cursive;
+    font-size: 15px;
+}
+
+
+.lista-personal {
+    padding-inline-start: 0px;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+
+.portafolio {
+    padding-inline-start: 0px;
+    list-style-type: none;   
+}
+
+.logo {
+    width: 140px;
+    height: 140px;          
+}
+
+
+.lista {
+    box-sizing: border-box;
+    display: inline;   
+}
